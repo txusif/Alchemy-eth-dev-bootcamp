@@ -28,7 +28,7 @@ The server folder contains a node.js server using [express](https://expressjs.co
 
 The application should connect to the default server port (3042) automatically! 
 
-To Test the wallet use the following:
+## To Test the wallet use the following:
 
 [Live Project URL 🚀🚀🚀](https://ecdsa.netlify.app/)
 
